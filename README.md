@@ -1,4 +1,4 @@
-# 🌟 Top ![100](https://img.shields.io/badge/100-blue) GitHub Contributor in Pakistan Aspiring to the Top! 
+# 🌟 Top ![100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakistan! 
 
 
 
