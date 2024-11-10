@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/python.png" width="30"> Python  
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="30"> C++  
+      <img src="https://img.icons8.com/ios/50/000000/python.png" width="30"> Python  
+      <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" width="30"> C++  
       <img src="https://img.icons8.com/ios/50/000000/php-logo.png" width="30"> PHP  
-      <img src="https://img.icons8.com/color/48/000000/dart.png" width="30"> Dart  
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"> JavaScript  
+      <img src="https://img.icons8.com/ios/50/000000/dart.png" width="30"> Dart  
+      <img src="https://img.icons8.com/ios/50/000000/javascript.png" width="30"> JavaScript  
       <img src="https://img.icons8.com/ios/50/000000/java.png" width="30"> Java
     </td>
     <td>
@@ -53,8 +53,8 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/numpy.png" width="30"> NumPy  
-      <img src="https://img.icons8.com/color/48/000000/pandas.png" width="30"> Pandas  
+      <img src="https://img.icons8.com/ios/50/000000/numpy.png" width="30"> NumPy  
+      <img src="https://img.icons8.com/ios/50/000000/pandas.png" width="30"> Pandas  
       <img src="https://img.icons8.com/ios/50/000000/matplotlib.png" width="30"> Matplotlib  
       <img src="https://img.icons8.com/ios/50/000000/seaborn.png" width="30"> Seaborn  
       <img src="https://img.icons8.com/ios/50/000000/scipy.png" width="30"> SciPy  
@@ -65,12 +65,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 ---
 
