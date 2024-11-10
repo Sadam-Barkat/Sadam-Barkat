@@ -28,21 +28,21 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" width="120">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow">
-      <img src="https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras">
-      <img src="https://img.shields.io/badge/-PyTorch-lightgrey?style=flat-square&logo=pytorch">
+      <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow" width="120">
+      <img src="https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras" width="120">
+      <img src="https://img.shields.io/badge/-PyTorch-lightgrey?style=flat-square&logo=pytorch" width="120">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Power%20BI-1769FF?style=flat-square&logo=powerbi&logoColor=white">
-      <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-      <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/-Power%20BI-1769FF?style=flat-square&logo=powerbi&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="120">
     </td>
   </tr>
 </table>
@@ -51,8 +51,8 @@
 
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadambarkat&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadambarkat&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadambarkat&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadambarkat&theme=dark&hide_border=true" alt="GitHub Streak" width="500">
 </p>
 
 ---
