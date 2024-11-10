@@ -30,23 +30,23 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/-Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+      <i class="fab fa-python" style="font-size: 36px; color: #3776AB;"></i> <!-- Python -->
+      <i class="fab fa-php" style="font-size: 36px; color: #777BB4;"></i> <!-- PHP -->
+      <i class="fab fa-java" style="font-size: 36px; color: #007396;"></i> <!-- Java -->
+      <i class="fab fa-js" style="font-size: 36px; color: #F7DF1E;"></i> <!-- JavaScript -->
+      <i class="fab fa-dart" style="font-size: 36px; color: #00B4AB;"></i> <!-- Dart -->
+      <i class="fab fa-cuttlefish" style="font-size: 36px; color: #00599C;"></i> <!-- C++ -->
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/-Power%20BI-FFB11A?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-      <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-      <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+      <i class="fab fa-sass" style="font-size: 36px; color: #4479A1;"></i> <!-- MySQL -->
+      <i class="fab fa-microsoft" style="font-size: 36px; color: #FFB11A;"></i> <!-- Power BI -->
+      <i class="fab fa-tableau" style="font-size: 36px; color: #E97627;"></i> <!-- Tableau -->
+      <i class="fab fa-microsoft-excel" style="font-size: 36px; color: #217346;"></i> <!-- Excel -->
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <i class="fab fa-html5" style="font-size: 36px; color: #E34F26;"></i> <!-- HTML5 -->
+      <i class="fab fa-css3" style="font-size: 36px; color: #1572B6;"></i> <!-- CSS3 -->
+      <i class="fab fa-bootstrap" style="font-size: 36px; color: #563D7C;"></i> <!-- Bootstrap -->
     </td>
   </tr>
   <tr>
@@ -54,15 +54,15 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-      <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/-Seaborn-FF7F0E?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-      <img src="https://img.shields.io/badge/-SciPy-8C2F39?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+      <i class="fab fa-pandas" style="font-size: 36px; color: #150458;"></i> <!-- Pandas -->
+      <i class="fab fa-numpy" style="font-size: 36px; color: #013243;"></i> <!-- NumPy -->
+      <i class="fab fa-matplotlib" style="font-size: 36px; color: #000000;"></i> <!-- Matplotlib -->
+      <i class="fab fa-seaborn" style="font-size: 36px; color: #FF7F0E;"></i> <!-- Seaborn -->
+      <i class="fab fa-scipy" style="font-size: 36px; color: #8C2F39;"></i> <!-- SciPy -->
+      <i class="fab fa-scikit-learn" style="font-size: 36px; color: #F7931E;"></i> <!-- Scikit Learn -->
+      <i class="fab fa-tensorflow" style="font-size: 36px; color: #FF6F00;"></i> <!-- TensorFlow -->
+      <i class="fab fa-keras" style="font-size: 36px; color: #D00000;"></i> <!-- Keras -->
+      <i class="fab fa-pytorch" style="font-size: 36px; color: #EE4C2C;"></i> <!-- PyTorch -->
     </td>
   </tr>
 </table>
