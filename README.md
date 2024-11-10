@@ -19,7 +19,6 @@
 ---
 
 
-
 ### 🧰 My Skill Set:
 
 <table>
@@ -30,23 +29,23 @@
   </tr>
   <tr>
     <td>
-      🐍 Python  
-      💻 C++  
-      🌐 PHP  
-      🎯 Dart  
-      💻 JavaScript  
-      ☕ Java
+      <img src="https://img.icons8.com/color/48/000000/python.png" width="30"> Python  
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="30"> C++  
+      <img src="https://img.icons8.com/ios/50/000000/php-logo.png" width="30"> PHP  
+      <img src="https://img.icons8.com/color/48/000000/dart.png" width="30"> Dart  
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"> JavaScript  
+      <img src="https://img.icons8.com/ios/50/000000/java.png" width="30"> Java
     </td>
     <td>
-      🗃️ MySQL  
-      📊 Power BI  
-      📊 Tableau  
-      📊 Excel
+      <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" width="30"> MySQL  
+      <img src="https://img.icons8.com/ios/50/000000/power-bi.png" width="30"> Power BI  
+      <img src="https://img.icons8.com/ios/50/000000/tableau.png" width="30"> Tableau  
+      <img src="https://img.icons8.com/ios/50/000000/microsoft-excel-2019.png" width="30"> Excel
     </td>
     <td>
-      🌐 HTML5  
-      🎨 CSS3  
-      ⚙️ Bootstrap
+      <img src="https://img.icons8.com/ios/50/000000/html-5.png" width="30"> HTML5  
+      <img src="https://img.icons8.com/ios/50/000000/css3.png" width="30"> CSS3  
+      <img src="https://img.icons8.com/ios/50/000000/bootstrap.png" width="30"> Bootstrap
     </td>
   </tr>
   <tr>
@@ -54,18 +53,19 @@
   </tr>
   <tr>
     <td>
-      📊 Pandas  
-      🔢 NumPy  
-      📈 Matplotlib  
-      📉 Seaborn  
-      🔬 SciPy  
-      🔍 Scikit-Learn  
-      🧠 TensorFlow  
-      🧠 Keras  
-      🔥 PyTorch
+      <img src="https://img.icons8.com/color/48/000000/numpy.png" width="30"> NumPy  
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" width="30"> Pandas  
+      <img src="https://img.icons8.com/ios/50/000000/matplotlib.png" width="30"> Matplotlib  
+      <img src="https://img.icons8.com/ios/50/000000/seaborn.png" width="30"> Seaborn  
+      <img src="https://img.icons8.com/ios/50/000000/scipy.png" width="30"> SciPy  
+      <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" width="30"> Scikit-Learn  
+      <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="30"> TensorFlow  
+      <img src="https://img.icons8.com/ios/50/000000/keras.png" width="30"> Keras  
+      <img src="https://img.icons8.com/ios/50/000000/pytorch.png" width="30"> PyTorch
     </td>
   </tr>
 </table>
+
 
 
 
