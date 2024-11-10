@@ -56,14 +56,6 @@
 ---
 
 ### 📈 GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sadam-Barkat&theme=react&hide_border=true" alt="GitHub Activity">
-</p>
-
-
----
-
-### 📈 GitHub Activity:
 - Total Contributions: 3,210
 - Current Streak: 334 days
 - Longest Streak: 334 days
