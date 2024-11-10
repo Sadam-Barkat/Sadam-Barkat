@@ -1,8 +1,8 @@
-# 🌟 Top 100 GitHub Contributor in <Your Country> (Aiming High!)
+# 🌟 Top 100 GitHub Contributor in Pakistan Aspiring to the Top!
 
 ## 👨‍💻 Software Engineer & Data Analyst
 
-- 🌍 Actively working towards becoming one of the top 100 GitHub contributors in <Your Pakistan>, specializing in:
+- 🌍 Actively working towards becoming one of the top 100 GitHub contributors in Pakistan, specializing in:
   - 🔍 Data Science & Algorithmic Problems
   - 🧑‍💻 Data Analysis and Data Science Projects
   - 🛠️ Building tools for data transformation, analysis, and visualization
