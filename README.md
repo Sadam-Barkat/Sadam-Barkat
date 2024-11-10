@@ -1,20 +1,20 @@
-# 🌟 Top <Your Country> GitHub Contributor
+# 🌟 Top 100 GitHub Contributor in <Your Country> (Aiming High!)
 
 ## 👨‍💻 Software Engineer & Data Analyst
 
-- 🌍 One of the top contributors on GitHub in <Your Pakistan>, specializing in:
+- 🌍 Actively working towards becoming one of the top 100 GitHub contributors in <Your Pakistan>, specializing in:
   - 🔍 Data Science & Algorithmic Problems
   - 🧑‍💻 Data Analysis and Data Science Projects
   - 🛠️ Building tools for data transformation, analysis, and visualization
-- 🏆 <Your Achievements or Recognitions, e.g., “Ranked top 100 in Hackathon XYZ”>
-- 📜 Published research papers on <Topic> in <Journal/Conference>.
-- 🎓 Speaker at <Event or Organization> on topics such as Data Science, AI, and Software Engineering.
+- 🏆 Recently contributed to multiple repositories and building my portfolio to reach the top 100 in GitHub rankings.
+- 📜 Currently exploring machine learning, data science, and software engineering.
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourprofile)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourprofile)](https://github.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf?style=flat-square&logo=appveyor&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sadam-barkat/)](https://www.linkedin.com/in/sadam-barkat/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/sadambarkat/)](https://leetcode.com/u/sadambarkat/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/sadambarkat)](https://www.kaggle.com/sadambarkat)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/profile/sadambarkat405)](https://www.hackerrank.com/profile/sadambarkat405)
+[![Lablab.ai](https://img.shields.io/badge/-Lablab.ai-black?style=flat-square&logo=lablab&logoColor=white&link=https://lablab.ai/u/@sadam_barkat656)](https://lablab.ai/u/@sadam_barkat656)
 
 ---
 
@@ -27,19 +27,19 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" width="120">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="120">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white">
-      <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-      <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="120">
     </td>
   </tr>
 </table>
@@ -55,9 +55,11 @@
 ---
 
 ### 📈 GitHub Activity:
-- Total Contributions: 3,210
-- Current Streak: 334 days
-- Longest Streak: 334 days
+- Total Contributions: [Dynamic - will display actual contributions]
+- Total Repositories Contributed: [Dynamic - will display your repositories]
+- Current Streak: [Dynamic - your active streak days]
+- Longest Streak: [Dynamic - your longest streak]
+- Aiming for Top 100 GitHub Contributors in <Your Country>
 
 ---
 
