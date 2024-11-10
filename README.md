@@ -1,4 +1,5 @@
-# 🌟 Top 100 GitHub Contributor in Pakistan Aspiring to the Top!
+# 🌟 Top <span style="color:green;">100</span> GitHub Contributor in <span style="color:blue;">Pakistan</span> <span style="color:orange;">Aspiring to the Top!</span>
+
 
 ## 👨‍💻 Software Engineer & Data Analyst
 
