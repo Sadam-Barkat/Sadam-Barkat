@@ -1,4 +1,4 @@
-# 🌟 Top <span style="color:green;">100</span> GitHub Contributor in <span style="color:blue;">Pakistan</span> <span style="color:orange;">Aspiring to the Top!</span>
+# 🌟 Top ![100](https://img.shields.io/badge/100-green) GitHub Contributor in ![Pakistan](https://img.shields.io/badge/Pakistan-blue) ![Aspiring](https://img.shields.io/badge/Aspiring-to%20the%20Top-orange)
 
 
 ## 👨‍💻 Software Engineer & Data Analyst
