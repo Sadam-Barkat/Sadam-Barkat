@@ -11,7 +11,7 @@ I love solving problems using **Data Structures and Algorithms (DSA)**, and I’
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"/>
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clever-cloud.com%2Fproduct%2Fmysql%2F&psig=AOvVaw02F4jmi1kLSPA1T0LQGttf&ust=1731290017404000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDzhIfU0IkDFQAAAAAdAAAAABAE)" alt="MySQL" width="50" height="50"/>
+    <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50"/>
