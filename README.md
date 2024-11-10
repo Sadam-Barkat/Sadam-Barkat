@@ -8,25 +8,12 @@
 - 💻 Passionate about continuous learning and improving technical skills.
 - 🏆 Ranked among the top contributors in various hackathons and coding platforms.
 
-### 🌐 Links:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadam-barkat/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="200">
-  </a>
-  <a href="https://leetcode.com/u/sadambarkat/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-F9DC3E?style=for-the-badge&logo=leetcode&logoColor=black" width="200">
-  </a>
-  <a href="https://www.kaggle.com/sadambarkat" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="200">
-  </a>
-  <a href="https://www.hackerrank.com/profile/sadambarkat405" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" width="200">
-  </a>
-  <a href="https://lablab.ai/u/@sadam_barkat656" target="_blank">
-    <img src="https://img.shields.io/badge/-LabLab-1F44C6?style=for-the-badge&logo=lablab&logoColor=white" width="200">
-  </a>
-</p>
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sadam-barkat/) 
+[![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/sadambarkat/) 
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sadambarkat) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-brightgreen?style=flat-square&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sadambarkat405) 
+[![Lablab.ai](https://img.shields.io/badge/-Lablab.ai-4D80B0?style=flat-square&logo=lablab&logoColor=white)](https://lablab.ai/u/@sadam_barkat656)
 
 
 ---
