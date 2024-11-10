@@ -89,12 +89,12 @@
 
 | Repository Name               | Description                                       | Link                                                       |
 |-------------------------------|---------------------------------------------------|------------------------------------------------------------|
-| **LeetCode**                   | Solutions to LeetCode problems for coding practice | [LeetCode](https://github.com/Sadam-Barkat/LeetCode_Problems)            |
-| **HackerRank**                 | My solutions to HackerRank challenges             | [HackerRank](https://github.com/Sadam-Barkat/SQL_HackerRank_Problems)        |
-| **PythonForMath**              | Python projects and examples for mathematical problems | [PythonForMath](https://github.com/Sadam-Barkat/Python_For_Math)  |
-| **DataScienceAndAi**           | My projects related to Data Science and AI        | [DataScienceAndAi](https://github.com/Sadam-Barkat/Data_Science_And_Ai) |
-| **DataStructuresAndAlgorithms**| Repository for learning and practicing data structures and algorithms | [DataStructuresAndAlgorithms](https://github.com/Sadam-Barkt/Data_Structures_And_Algorithms) |
-| **PythonForDataAnalysis**      | Python scripts for data analysis and manipulation | [PythonForDataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
+| **LeetCode_Problems**                   | Solutions to LeetCode problems for coding practice | [LeetCode_Problems](https://github.com/Sadam-Barkat/LeetCode_Problems)            |
+| **SQL_HackerRank_Problems**                 | My solutions to HackerRank challenges             | [SQL_HackerRank_Problems](https://github.com/Sadam-Barkat/SQL_HackerRank_Problems)        |
+| **Python_For_Math**              | Python projects and examples for mathematical problems | [Python_For_Math](https://github.com/Sadam-Barkat/Python_For_Math)  |
+| **Data_Science_And_Ai**           | My projects related to Data Science and AI        | [Data_Science_And_Ai](https://github.com/Sadam-Barkat/Data_Science_And_Ai) |
+| **Data_Structures_And_Algorithms**| Repository for learning and practicing data structures and algorithms | [Data_Structures_And_Algorithms](https://github.com/Sadam-Barkt/Data_Structures_And_Algorithms) |
+| **Python_For_DataAnalysis**      | Python scripts for data analysis and manipulation | [Python_For_DataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
 
 
 ---
