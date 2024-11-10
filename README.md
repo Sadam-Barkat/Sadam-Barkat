@@ -22,10 +22,13 @@ Here are some of the key repositories I'm currently working on:
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| **[Data_Structures_And_Algorithms](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms-Cpp)** | A collection of various Data Structures and Algorithms implemented in C++. | [Link](https://github.com/Sadam-Barkat/DSA-in-Cpp) |
-| **[Data Analytics Portfolio](https://github.com/Sadam-Barkat/Data-Analytics-Portfolio)** | A portfolio of data analysis projects showcasing my work with Python, Power BI, and Tableau. | [Link](https://github.com/Sadam-Barkat/Data-Analytics-Portfolio) |
-| **[Python Algorithms](https://github.com/Sadam-Barkat/Python-Algorithms)** | A repository of Python-based algorithms and problem-solving techniques. | [Link](https://github.com/Sadam-Barkat/Python-Algorithms) |
-| **[Web Development Projects](https://github.com/Sadam-Barkat/Web-Development-Projects)** | My web development projects using HTML, CSS, and PHP. | [Link](https://github.com/Sadam-Barkat/Web-Development-Projects) |
+| **[Data_Science_And_Ai](https://github.com/Sadam-Barkat/Data_Science_And_Ai)** | A collection of data science and AI projects showcasing machine learning, deep learning, and other data-related techniques. | [Link](https://github.com/Sadam-Barkat/Data_Science_And_Ai) |
+| **[LeetCode](https://github.com/Sadam-Barkat/LeetCode)** | A repository of solutions to LeetCode problems for practicing algorithms and data structures. | [Link](https://github.com/Sadam-Barkat/LeetCode) |
+| **[Python_For_DataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis)** | Python-based projects and techniques for data analysis, including data cleaning, visualization, and exploration. | [Link](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
+| **[HackerRank](https://github.com/Sadam-Barkat/HackerRank)** | Solutions to various problems from HackerRank for practicing coding skills and algorithmic thinking. | [Link](https://github.com/Sadam-Barkat/HackerRank) |
+| **[Data_Structures_And_Algorithms](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms)** | A collection of various data structures and algorithms implemented in C++. | [Link](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms) |
+| **[Python_For_Math](https://github.com/Sadam-Barkat/Python_For_Math)** | Python projects and scripts for solving mathematical problems, including numerical methods and computational math. | [Link](https://github.com/Sadam-Barkat/Python_For_Math) |
+
 
 ## 🌱 What I'm Learning
 
@@ -43,7 +46,7 @@ Here are some of the key repositories I'm currently working on:
 - [LinkedIn](https://www.linkedin.com/in/sadam-barkat/)
 - [LeetCode](https://leetcode.com/SadamBarkat)
 - [Kaggle](https://www.kaggle.com/SadamBarkat)
-- [HackerRank](https://www.hackerrank.com/SadamBarkat)
+- [HackerRank](https://www.hackerrank.com/profile/sadambarkat405)
 - [LabLab.ai](https://lablab.ai/u/SadamBarkat)
 
 Feel free to connect with me, explore my repositories, or reach out for collaboration or questions!
