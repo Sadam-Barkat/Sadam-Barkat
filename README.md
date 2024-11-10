@@ -44,7 +44,24 @@
       <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
     </td>
   </tr>
+  <tr>
+    <td><b>Data Science & Machine Learning Libraries</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=white">
+      <img src="https://img.shields.io/badge/-Seaborn-FF7F0E?style=flat-square&logo=seaborn&logoColor=white">
+      <img src="https://img.shields.io/badge/-SciPy-8C2F39?style=flat-square&logo=scipy&logoColor=white">
+      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+    </td>
+  </tr>
 </table>
+
 
 
 ---
