@@ -8,16 +8,16 @@ I love solving problems using **Data Structures and Algorithms (DSA)**, and I’
 
 ### Technologies & Tools I Work With:
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg)
-![Tableau](https://upload.wikimedia.org/wikipedia/commons/f/f2/Tableau_Logo.png)
-![Excel](https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg)
-![Data Science](https://upload.wikimedia.org/wikipedia/commons/a/a7/Data_science_icon.svg)
-![AI](https://upload.wikimedia.org/wikipedia/commons/8/8b/Artificial_Intelligence_Icon.svg)
-![HackerRank](https://upload.wikimedia.org/wikipedia/commons/0/05/HackerRank_logo.svg)
-![LeetCode](https://upload.wikimedia.org/wikipedia/commons/e/e3/LeetCode_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" alt="MySQL" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" alt="Power BI" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tableau_Logo.png" alt="Tableau" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Data_science_icon.svg" alt="Data Science" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Artificial_Intelligence_Icon.svg" alt="AI" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/HackerRank_logo.svg" alt="HackerRank" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/LeetCode_logo.svg" alt="LeetCode" width="40" height="40">
 
 ## GitHub Stats
 
@@ -45,4 +45,3 @@ You can connect with me on these platforms:
 - [Lablab.ai](https://www.lablab.ai/profile/Sadam-Barkat)
 
 Feel free to explore my repositories and reach out for collaborations or discussions. 😊
-
