@@ -1,4 +1,4 @@
-# 🌟 Top 100 GitHub Contributor in Pakistan  (Aiming High!)
+Top ![100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakistan  (Aiming High!)
 
 ## 👨‍💻 Software Engineer | Data Analyst | Data Science & AI Enthusiast | DSA & LeetCode Contributor
 
@@ -56,9 +56,9 @@
 ---
 
 ### 📈 GitHub Activity:
-- Total Contributions: 3,210
-- Current Streak: 334 days
-- Longest Streak: 334 days
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sadam-Barkat&theme=react-dark&hide_border=true" alt="GitHub Activity">
+</p>
 
 ---
 
