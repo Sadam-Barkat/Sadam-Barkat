@@ -9,7 +9,7 @@ I love solving problems using **Data Structures and Algorithms (DSA)**, and I’
 ### Technologies & Tools I Work With:
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="70" height="70"/>
     <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="MySQL" width="70" height="70"/>
     <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" alt="Power BI" width="70" height="70"/>
