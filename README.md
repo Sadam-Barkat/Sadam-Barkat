@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Software Engineer & Data Analyst
 
-- 🌍 One of the top contributors on GitHub in <Your Country>, specializing in:
+- 🌍 One of the top contributors on GitHub in <Your Pakistan>, specializing in:
   - 🔍 Data Science & Algorithmic Problems
   - 🧑‍💻 Data Analysis and Data Science Projects
   - 🛠️ Building tools for data transformation, analysis, and visualization
