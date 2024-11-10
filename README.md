@@ -8,16 +8,18 @@ I love solving problems using **Data Structures and Algorithms (DSA)**, and I’
 
 ### Technologies & Tools I Work With:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" alt="MySQL" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" alt="Power BI" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tableau_Logo.png" alt="Tableau" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Data_science_icon.svg" alt="Data Science" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Artificial_Intelligence_Icon.svg" alt="AI" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/HackerRank_logo.svg" alt="HackerRank" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/LeetCode_logo.svg" alt="LeetCode" width="40" height="40">
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Data_science_icon.svg" alt="Data Science" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Artificial_Intelligence_Icon.svg" alt="AI" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/HackerRank_logo.svg" alt="HackerRank" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/LeetCode_logo.svg" alt="LeetCode" width="50" height="50"/>
+</p>
 
 ## GitHub Stats
 
