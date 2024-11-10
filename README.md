@@ -30,23 +30,23 @@
   </tr>
   <tr>
     <td>
-      <i class="fab fa-python" style="font-size: 36px; color: #3776AB;"></i> <!-- Python -->
-      <i class="fab fa-php" style="font-size: 36px; color: #777BB4;"></i> <!-- PHP -->
-      <i class="fab fa-java" style="font-size: 36px; color: #007396;"></i> <!-- Java -->
-      <i class="fab fa-js" style="font-size: 36px; color: #F7DF1E;"></i> <!-- JavaScript -->
-      <i class="fab fa-dart" style="font-size: 36px; color: #00B4AB;"></i> <!-- Dart -->
-      <i class="fab fa-cuttlefish" style="font-size: 36px; color: #00599C;"></i> <!-- C++ -->
+      🐍 Python  
+      💻 C++  
+      🌐 PHP  
+      🎯 Dart  
+      💻 JavaScript  
+      ☕ Java
     </td>
     <td>
-      <i class="fab fa-sass" style="font-size: 36px; color: #4479A1;"></i> <!-- MySQL -->
-      <i class="fab fa-microsoft" style="font-size: 36px; color: #FFB11A;"></i> <!-- Power BI -->
-      <i class="fab fa-tableau" style="font-size: 36px; color: #E97627;"></i> <!-- Tableau -->
-      <i class="fab fa-microsoft-excel" style="font-size: 36px; color: #217346;"></i> <!-- Excel -->
+      🗃️ MySQL  
+      📊 Power BI  
+      📊 Tableau  
+      📊 Excel
     </td>
     <td>
-      <i class="fab fa-html5" style="font-size: 36px; color: #E34F26;"></i> <!-- HTML5 -->
-      <i class="fab fa-css3" style="font-size: 36px; color: #1572B6;"></i> <!-- CSS3 -->
-      <i class="fab fa-bootstrap" style="font-size: 36px; color: #563D7C;"></i> <!-- Bootstrap -->
+      🌐 HTML5  
+      🎨 CSS3  
+      ⚙️ Bootstrap
     </td>
   </tr>
   <tr>
@@ -54,18 +54,19 @@
   </tr>
   <tr>
     <td>
-      <i class="fab fa-pandas" style="font-size: 36px; color: #150458;"></i> <!-- Pandas -->
-      <i class="fab fa-numpy" style="font-size: 36px; color: #013243;"></i> <!-- NumPy -->
-      <i class="fab fa-matplotlib" style="font-size: 36px; color: #000000;"></i> <!-- Matplotlib -->
-      <i class="fab fa-seaborn" style="font-size: 36px; color: #FF7F0E;"></i> <!-- Seaborn -->
-      <i class="fab fa-scipy" style="font-size: 36px; color: #8C2F39;"></i> <!-- SciPy -->
-      <i class="fab fa-scikit-learn" style="font-size: 36px; color: #F7931E;"></i> <!-- Scikit Learn -->
-      <i class="fab fa-tensorflow" style="font-size: 36px; color: #FF6F00;"></i> <!-- TensorFlow -->
-      <i class="fab fa-keras" style="font-size: 36px; color: #D00000;"></i> <!-- Keras -->
-      <i class="fab fa-pytorch" style="font-size: 36px; color: #EE4C2C;"></i> <!-- PyTorch -->
+      📊 Pandas  
+      🔢 NumPy  
+      📈 Matplotlib  
+      📉 Seaborn  
+      🔬 SciPy  
+      🔍 Scikit-Learn  
+      🧠 TensorFlow  
+      🧠 Keras  
+      🔥 PyTorch
     </td>
   </tr>
 </table>
+
 
 
 
