@@ -1,52 +1,48 @@
-# Hi, I'm Sadam Barkat 👋
+# Sadam Barkat's GitHub Profile
 
-Welcome to my GitHub profile! I'm a **Software Engineer**, **Data Analyst**, and an aspiring **Data Scientist** with a passion for **Data Science**, **AI**, and **Software Engineering**. I enjoy solving real-world problems using **Data Structures & Algorithms (DSA)** and analyzing data to uncover valuable insights.
+## About Me
 
-## 🚀 About Me
+Hi there! I'm **Sadam Barkat**, a passionate **Software Engineer**, **Data Analyst**, and **Aspiring Data Scientist**. I'm currently learning and exploring various technologies including **Python**, **C++**, **Data Science**, **Machine Learning**, and **Web Development**.
 
-- Currently learning and improving in **Software Engineering** and **Data Science**.
-- Experienced in **LeetCode** problem-solving and **Data Structures & Algorithms (DSA)**.
-- Skilled in data analysis and visualization tools like **Python**, **MySQL**, **Power BI**, **Tableau**, and **Excel**.
-- Passionate about solving complex problems and continuously expanding my knowledge in the field of **AI** and **Machine Learning**.
+I love solving problems using **Data Structures and Algorithms (DSA)**, and I’m always up for learning new skills and improving my knowledge.
 
-## 📚 Skills
+### Technologies & Tools I Work With:
 
-- **Programming Languages**: Python, C++, PHP, HTML, CSS
-- **Data Analysis & Visualization**: MySQL, Power BI, Tableau, Excel
-- **Tools & Platforms**: LeetCode, HackerRank, Kaggle, LabLab.ai
-- **Areas of Expertise**: Data Science, AI, DSA (Data Structures & Algorithms), Software Engineering
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg)
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg)
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/f/f2/Tableau_Logo.png)
+![Excel](https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg)
+![Data Science](https://upload.wikimedia.org/wikipedia/commons/a/a7/Data_science_icon.svg)
+![AI](https://upload.wikimedia.org/wikipedia/commons/8/8b/Artificial_Intelligence_Icon.svg)
+![HackerRank](https://upload.wikimedia.org/wikipedia/commons/0/05/HackerRank_logo.svg)
+![LeetCode](https://upload.wikimedia.org/wikipedia/commons/e/e3/LeetCode_logo.svg)
 
-## 🔭 Current Projects
+## GitHub Stats
 
-Here are some of the key repositories I'm currently working on:
+![Sadam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&hide_title=true)
+
+## My Important Repositories
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| **[Data_Science_And_Ai](https://github.com/Sadam-Barkat/Data_Science_And_Ai)** | A collection of data science and AI projects showcasing machine learning, deep learning, and other data-related techniques. | [Link](https://github.com/Sadam-Barkat/Data_Science_And_Ai) |
-| **[LeetCode](https://github.com/Sadam-Barkat/LeetCode)** | A repository of solutions to LeetCode problems for practicing algorithms and data structures. | [Link](https://github.com/Sadam-Barkat/LeetCode) |
-| **[Python_For_DataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis)** | Python-based projects and techniques for data analysis, including data cleaning, visualization, and exploration. | [Link](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
-| **[HackerRank](https://github.com/Sadam-Barkat/HackerRank)** | Solutions to various problems from HackerRank for practicing coding skills and algorithmic thinking. | [Link](https://github.com/Sadam-Barkat/HackerRank) |
-| **[Data_Structures_And_Algorithms](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms)** | A collection of various data structures and algorithms implemented in C++. | [Link](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms) |
-| **[Python_For_Math](https://github.com/Sadam-Barkat/Python_For_Math)** | Python projects and scripts for solving mathematical problems, including numerical methods and computational math. | [Link](https://github.com/Sadam-Barkat/Python_For_Math) |
+| **[Data_Science_And_Ai](https://github.com/Sadam-Barkat/Data_Science_And_Ai)** | A collection of Data Science and AI projects, showcasing my skills and research. | [Link](https://github.com/Sadam-Barkat/Data_Science_And_Ai) |
+| **[LeetCode](https://github.com/Sadam-Barkat/LeetCode)** | A repository of my solutions to problems on LeetCode, focusing on DSA and algorithm challenges. | [Link](https://github.com/Sadam-Barkat/LeetCode) |
+| **[Python_For_DataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis)** | Python-based data analysis projects, including work with libraries like pandas, numpy, and matplotlib. | [Link](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
+| **[HackerRank](https://github.com/Sadam-Barkat/HackerRank)** | A collection of my competitive programming solutions from HackerRank. | [Link](https://github.com/Sadam-Barkat/HackerRank) |
+| **[Data_Structures_And_Algorithms](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms)** | A repository containing various data structures and algorithms implemented in C++. | [Link](https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms) |
+| **[Python_For_Math](https://github.com/Sadam-Barkat/Python_For_Math)** | Python-based mathematical problem-solving techniques and projects. | [Link](https://github.com/Sadam-Barkat/Python_For_Math) |
 
+## Connect With Me
 
-## 🌱 What I'm Learning
-
-- **Machine Learning** and **AI** techniques
-- Advanced **Data Structures** and **Algorithms**
-- **Big Data** tools and frameworks (e.g., **Hadoop**, **Spark**)
-- Data engineering concepts including **ETL** (Extract, Transform, Load) processes
-
-## 📈 GitHub Stats
-
-![Sadam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## 🌐 Let's Connect
+You can connect with me on these platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/sadam-barkat/)
-- [LeetCode](https://leetcode.com/SadamBarkat)
+- [LeetCode](https://leetcode.com/Sadam-Barkat/)
 - [Kaggle](https://www.kaggle.com/SadamBarkat)
-- [HackerRank](https://www.hackerrank.com/profile/sadambarkat405)
-- [LabLab.ai](https://lablab.ai/u/SadamBarkat)
+- [HackerRank](https://www.hackerrank.com/SadamBarkat)
+- [Lablab.ai](https://www.lablab.ai/profile/Sadam-Barkat)
 
-Feel free to connect with me, explore my repositories, or reach out for collaboration or questions!
+Feel free to explore my repositories and reach out for collaborations or discussions. 😊
+
