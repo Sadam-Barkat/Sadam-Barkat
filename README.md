@@ -13,13 +13,13 @@ I love solving problems using **Data Structures and Algorithms (DSA)**, and I’
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="200" height="200"/>
     <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="MySQL" width="200" height="200"/>
     <img src="https://w7.pngwing.com/pngs/255/665/png-transparent-oval-blue-and-black-php-logo-php-server-side-scripting-computer-software-general-purpose-programming-language-php-miscellaneous-blue-text-thumbnail.png" alt="HackerRank" width="200" height="200"/>
-    <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" alt="Power BI" width="70" height="70"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-RM265y4hLCSqdkBCaphYK_DQCD5NVXOhPRrLv_qofB6nv44u4mRL980abKjNfDqL6A&usqp=CAU" alt="Tableau" width="70" height="70"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="70" height="70"/>
-    <img src="https://cdn-icons-png.freepik.com/512/8649/8649621.png" alt="Data Science" width="70" height="70"/>
-    <img src="https://img.freepik.com/premium-vector/ai-technology-icon-artificial-intelligence-machine-learning-concepts-futuristic-ai-symbol_689336-880.jpg" alt="AI" width="70" height="70"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="LeetCode" width="70" height="70"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="AI" width="70" height="70"/>
+    <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" alt="Power BI" width="200" height="200"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-RM265y4hLCSqdkBCaphYK_DQCD5NVXOhPRrLv_qofB6nv44u4mRL980abKjNfDqL6A&usqp=CAU" alt="Tableau" width="200" height="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="200" height="200"/>
+    <img src="https://cdn-icons-png.freepik.com/512/8649/8649621.png" alt="Data Science" width="200" height="200"/>
+    <img src="https://img.freepik.com/premium-vector/ai-technology-icon-artificial-intelligence-machine-learning-concepts-futuristic-ai-symbol_689336-880.jpg" alt="AI" width="200" height="200"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="LeetCode" width="200" height="200"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="AI" width="200" height="200"/>
 </p>
 
 ## GitHub Stats
