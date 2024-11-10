@@ -47,11 +47,10 @@
 
 ---
 
-### 🔥 GitHub Stats:
+### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sadam-Barkat&theme=react&hide_border=true" alt="GitHub Activity">
+</p>>
 
 ---
 
