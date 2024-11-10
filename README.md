@@ -1,4 +1,4 @@
-Top ![100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakistan  (Aiming High!)
+# 🌟 Top ![#100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakistan (Aming High)!
 
 ## 👨‍💻 Software Engineer | Data Analyst | Data Science & AI Enthusiast | DSA & LeetCode Contributor
 
@@ -57,8 +57,9 @@ Top ![100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakista
 
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sadam-Barkat&theme=react-dark&hide_border=true" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadam-Barkat&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
+
 
 ---
 
