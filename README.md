@@ -72,11 +72,14 @@
 ### 🔥 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
 </p>
 
-If the streak stats image doesn't load, you can view it directly here: [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark).
-
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" type="image/png">
+    <img src="https://via.placeholder.com/400x100.png?text=GitHub+Streak+Unavailable" alt="GitHub Streak">
+  </picture>
+</p>
 
 
 ---
