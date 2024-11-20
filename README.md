@@ -75,6 +75,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
 </p>
 
+If the streak stats image doesn't load, you can view it directly here: [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark).
+
+
 
 ---
 
