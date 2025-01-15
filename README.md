@@ -74,10 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
-</p>
-
+<img src="https://via.placeholder.com/400x100.png?text=GitHub+Streak+Unavailable" alt="GitHub Streak">
 
 
 ---
