@@ -68,43 +68,23 @@
 
 
 ---
-
 ### 🔥 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
 </p>
-----
-name: Daily Push
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs at midnight every day
-jobs:
-  daily-push:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Commit changes
-        run: |
-          echo "Update for daily commit" >> README.md
-          git add README.md
-          git commit -m "Daily commit"
-          git push
 
 ----
-
 ### 📈 GitHub Activity:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadam-Barkat&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
-
 ---
-
 ### 🚀 My Top 6 Repositories
 
 | Repository Name               | Description                                       | Link                                                       |
