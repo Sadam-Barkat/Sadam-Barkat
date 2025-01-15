@@ -77,8 +77,25 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
 </p>
+----
+name: Daily Push
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+jobs:
+  daily-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Commit changes
+        run: |
+          echo "Update for daily commit" >> README.md
+          git add README.md
+          git commit -m "Daily commit"
+          git push
 
----
+----
 
 ### 📈 GitHub Activity:
 <p align="center">
