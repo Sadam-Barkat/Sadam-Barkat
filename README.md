@@ -92,7 +92,7 @@
 | **LeetCode_Problems**                   | Solutions to LeetCode problems for coding practice | [LeetCode_Problems](https://github.com/Sadam-Barkat/LeetCode_Problems)            |
 | **SQL_HackerRank_Problems**                 | My solutions to HackerRank challenges             | [SQL_HackerRank_Problems](https://github.com/Sadam-Barkat/SQL_HackerRank_Problems)        |
 | **50_SQL_LeetCode_Problems**              | A collection of SQL solutions to LeetCode problems | [50_SQL_LeetCode_Problems](https://github.com/Sadam-Barkat/50_SQL_LeetCode_Problems.git)  |
-| **Cloud-Native-Agentic-AI**           | My projects related to Cloud-Native-Agentic-AI        | [Data_Science_And_Ai](https://github.com/Sadam-Barkat/Cloud-Native-Agentic-AI) |
+| **Cloud-Native-Agentic-AI**           | My projects related to Cloud-Native-Agentic-AI        | [Cloud-Native-Agentic-AI](https://github.com/Sadam-Barkat/Cloud-Native-Agentic-AI) |
 | **Data_Structures_And_Algorithms**| Repository for learning and practicing data structures and algorithms | [Data_Structures_And_Algorithms](https://github.com/Sadam-Barkt/Data_Structures_And_Algorithms) |
 | **Python_For_DataAnalysis**      | Python scripts for data analysis and manipulation | [Python_For_DataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
 
