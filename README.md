@@ -14,55 +14,65 @@ I actively solve DSA problems to improve my logic and contribute to real-world A
   <a href="https://www.linkedin.com/in/sadam-barkat/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/sadambarkat405" style="margin-left: 5px;">
+  <a href="https://www.fiverr.com/sadambarkat405" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" />
   </a>
-  <a href="https://github.com/Sadam-Barkat" style="margin-left: 5px;">
+  <a href="https://github.com/Sadam-Barkat" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://devcloudhub.com" style="margin-left: 5px;">
-    <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://devcloudhub.com" style="margin-left: 8px;">
+    <img src="https://img.shields.io/badge/-Website-1E90FF?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧰 **Tech Stack**
+# 🧰 **Tech Stack**
 
-### **🚀 Web Development**
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
----
-
-### **🤖 Agentic AI & Automation**
-<img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LangGraph-0A66C2?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-OpenAI_Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+## 🚀 Web Development
+<p>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-### **🗄️ Database Technologies**
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+## 🤖 Agentic AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangGraph-0A66C2?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenAI_Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
-### **📘 Programming Languages**
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+## 🗄️ Database Technologies
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-### **🔥 DSA & Problem Solving**
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+## 📘 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 DSA & Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</p>
 
 ---
 
