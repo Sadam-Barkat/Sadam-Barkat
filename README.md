@@ -14,7 +14,7 @@ I actively solve DSA problems to improve my logic and contribute to real-world A
   <a href="https://www.linkedin.com/in/sadam-barkat/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="[https://www.fiverr.com/sadambarkat405](https://www.fiverr.com/s/zWaX3qo)" style="margin-left: 8px;">
+  <a href="https://www.fiverr.com/s/zWaX3qo" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" />
   </a>
   <a href="https://github.com/Sadam-Barkat" style="margin-left: 8px;">
@@ -70,13 +70,21 @@ I actively solve DSA problems to improve my logic and contribute to real-world A
 
 ## 🔥 DSA & Problem Solving
 <p>
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <a href="https://leetcode.com/u/sadambarkat/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sadambarkat405" style="margin-left: 8px;">
+    <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
 </p>
