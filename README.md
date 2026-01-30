@@ -10,10 +10,20 @@ I actively solve DSA problems to improve my logic and contribute to real-world A
 ---
 
 ## 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sadam-barkat/)  
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/sadambarkat405)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Sadam-Barkat)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devcloudhub.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sadam-barkat/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/sadambarkat405" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sadam-Barkat" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devcloudhub.com" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
