@@ -14,7 +14,7 @@ I actively solve DSA problems to improve my logic and contribute to real-world A
   <a href="https://www.linkedin.com/in/sadam-barkat/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/sadambarkat405" style="margin-left: 8px;">
+  <a href="[https://www.fiverr.com/sadambarkat405](https://www.fiverr.com/s/zWaX3qo)" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" />
   </a>
   <a href="https://github.com/Sadam-Barkat" style="margin-left: 8px;">
@@ -77,10 +77,6 @@ I actively solve DSA problems to improve my logic and contribute to real-world A
 ---
 
 # 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
 </p>
